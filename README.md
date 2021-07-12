@@ -1,4 +1,4 @@
-# invoice
+# invoicer
 
 ## Project setup
 ```
